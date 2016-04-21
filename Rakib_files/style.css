@@ -146,6 +146,13 @@ body {
   padding-top: 20px;
   float: left;
 }
+
+IMG.imgcenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:none;
+}
 /*-------------------
 [ 2.1 Mainmenu ]
 ---------------------*/
